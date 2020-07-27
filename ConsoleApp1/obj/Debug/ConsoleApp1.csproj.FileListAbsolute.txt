@@ -1,0 +1,10 @@
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\bin\Debug\FirstLibrary.dll
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\bin\Debug\FirstLibrary.pdb
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

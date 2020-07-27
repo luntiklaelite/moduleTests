@@ -1,0 +1,6 @@
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\FirstLibrary\bin\Debug\FirstLibrary.dll
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\FirstLibrary\bin\Debug\FirstLibrary.pdb
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\FirstLibrary\obj\Debug\FirstLibrary.csprojAssemblyReference.cache
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\FirstLibrary\obj\Debug\FirstLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\FirstLibrary\obj\Debug\FirstLibrary.dll
+C:\Users\LUNTIKLAELITE\source\repos\moduleTest\FirstLibrary\obj\Debug\FirstLibrary.pdb
